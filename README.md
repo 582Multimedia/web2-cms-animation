@@ -55,9 +55,9 @@
 ---
 ## resources & links
 ### learn to learn with these helpful resources. Become a web designer.
-- [CSS Tricks: animation] (https://css-tricks.com/almanac/properties/a/animation/)
-- [article: Web Animation Techniques] (https://www.freecodecamp.org/news/web-animation-css-vs-javascript/)
-- [Kevin Powell: CSS Evangelist] (https://www.kevinpowell.co/)
-- [and you here is Kevin's YouTube channel] (https://www.youtube.com/kevinpowell)
-- [Design Course with UI/UX guru Gary Simon] (https://www.youtube.com/@DesignCourse)
+- [CSS Tricks: animation](https://css-tricks.com/almanac/properties/a/animation/)
+- [article: Web Animation Techniques](https://www.freecodecamp.org/news/web-animation-css-vs-javascript/)
+- [Kevin Powell: CSS Evangelist](https://www.kevinpowell.co/)
+- [and you here is Kevin's YouTube channel](https://www.youtube.com/kevinpowell)
+- [Design Course with UI/UX guru Gary Simon](https://www.youtube.com/@DesignCourse)
  
