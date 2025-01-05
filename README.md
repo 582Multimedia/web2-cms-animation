@@ -37,18 +37,20 @@
 ---
 ## web best practices (kinda in order)
 - [mobile first](https://www.lukew.com/resources/mobile_first.asp)
-- responsive
-- semantic html
-- properly structured html i.e. nav, header, main (article & section), aside, footer
-- html for content
-- CSS for styles
-- js for user interaction
-- use a grid for layout (ideally CSS Grid)
-- file management & naming
-- wireframes, mood boards and mockups in Figma or similar
-- UI / UX
-- accessibility
-- version control (.git / Github)
+- [responsive](https://alistapart.com/article/responsive-web-design/)
+- [semantic html](https://www.semrush.com/blog/semantic-html5-guide/)
+- [properly structured html i.e. nav, header, main (article & section), aside, footer](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [html for content](https://earthstrongdigital.com/tech-talk/understanding-web-standards-html-css-and-javascript/)
+- [CSS for styles](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [js for user interaction](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [use a grid for layout](https://www.uxdesigninstitute.com/blog/how-to-use-grids-in-web-design/) 
+- [ideally CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [file management](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files) & [naming](https://learntheweb.courses/topics/naming-conventions/)
+- [wireframes and mockups in Figma or similar](https://www.figma.com/resource-library/wireframe-vs-mockup/)
+- [mood boards in Figma](https://www.figma.com/resource-library/how-to-make-a-mood-board/)
+- [UI / UX](https://99designs.com/blog/web-digital/web-design-development-ui-ux-difference/)
+- [accessibility](https://www.wcag.com/)
+- [version control (.git / Github)](https://github.com/582Multimedia/git-basics)
 
 ---
 ## resources & links
