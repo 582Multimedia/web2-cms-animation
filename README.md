@@ -1,12 +1,15 @@
 ![582 Multimedia](https://github.com/582Multimedia/.github/blob/main/img/logo/logo_582_bil_k.png)
 
 # Web 2 CMS &amp; Animation
-
 ---
 
-## edited from VSC
 
-- January 7, 2024
+## links to github pages
+- [class notes](https://github.com/582Multimedia/web2_cms_animation/blob/main/notes.md)
+- [git fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/git_fundamentals.md)
+- [CSS grid fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/css_grid_fundamentals)
+
+---
 
 ## main topics and projects
 
