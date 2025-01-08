@@ -1,4 +1,4 @@
-# Intermediate Web Development Course
+# web2 brainstorm of topics & projects
 
 ## Course Topics
 
