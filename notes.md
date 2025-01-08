@@ -60,7 +60,6 @@
 ### 4. single page application (SPA)
 - build an animated SPA 
 
-
 ### 5. progressive web app (pwa)
 - convert an existing project into a pwa.
 - implement app-like features (e.g., install prompts).
