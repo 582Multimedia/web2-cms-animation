@@ -128,7 +128,3 @@
 
 ---
 
-### Notes for Instructors
-- Focus on practical exercises to reinforce concepts.
-- Encourage students to document their projects in Markdown.
-- Assign group projects to simulate real-world collaboration using GitHub.
