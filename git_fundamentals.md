@@ -2,7 +2,7 @@
 
 ## GitHub Fundamentals
 
-### 1. What is GitHub?
+### 1. What is GitHub? 
 - **Definition**: A cloud-based platform for version control and collaboration using Git.
 - **Purpose**: Helps manage code repositories, track changes, and collaborate on projects.
 
