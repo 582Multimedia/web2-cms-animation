@@ -5,9 +5,9 @@
 
 
 ## links to github pages
-- [class notes](https://github.com/582Multimedia/web2_cms_animation/blob/main/notes.md)
-- [git fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/git_fundamentals.md)
-- [CSS grid fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/CSS_grid_fundamentals.md)
+- [class notes](https://github.com/582Multimedia/web2_cms-animation/blob/main/notes.md)
+- [git fundamentals](https://github.com/582Multimedia/web2-cms-animation/blob/main/git-fundamentals.md)
+- [CSS grid fundamentals](https://github.com/582Multimedia/web2-cms-animation/blob/main/CSS-grid-fundamentals.md)
 
 ---
 
