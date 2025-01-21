@@ -66,33 +66,39 @@ You can combine multiple transform functions in a single declaration.
 }
 ```
 
+````
+
 ### Hover Example
 
 Use transforms to create interactive hover effects.
 
-````css
+
+```css
 .button {
     transition: transform 0.3s ease;
 }
 .button:hover {
     transform: scale(1.1) rotate(5deg);
 }
+````
 
 ## **2. CSS Animations**
 
 CSS animations allow you to define transitions between states with keyframes and timing.
 
 ### Transitions
+
 Smoothly change property values over time.
 
 ```css
 .button {
-    background-color: #3498db;
-    transition: background-color 0.3s ease;
+  background-color: #3498db;
+  transition: background-color 0.3s ease;
 }
 .button:hover {
-    background-color: #2980b9;
+  background-color: #2980b9;
 }
+```
 
 ### Keyframes
 
@@ -100,16 +106,17 @@ Define multiple states for an element during an animation.
 
 ```css
 @keyframes slideIn {
-    from {
-        transform: translateX(-100%);
-    }
-    to {
-        transform: translateX(0);
-    }
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
 .element {
-    animation: slideIn 1s ease-out;
+  animation: slideIn 1s ease-out;
 }
+```
 
 ## **3. JavaScript for Animations**
 
@@ -120,11 +127,12 @@ JavaScript provides dynamic control over animations for interactivity.
 Use JavaScript to trigger animations.
 
 ```javascript
-const box = document.querySelector('.box');
-box.addEventListener('click', () => {
-    box.style.transform = 'rotate(45deg)';
-    box.style.transition = 'transform 0.5s';
+const box = document.querySelector(".box");
+box.addEventListener("click", () => {
+  box.style.transform = "rotate(45deg)";
+  box.style.transition = "transform 0.5s";
 });
+```
 
 ### requestAnimationFrame
 
@@ -133,14 +141,14 @@ Create smooth, high-performance animations.
 ```javascript
 let position = 0;
 function move() {
-    position += 1;
-    document.querySelector('.box').style.transform = `translateX(${position}px)`;
-    if (position < 200) {
-        requestAnimationFrame(move);
-    }
+  position += 1;
+  document.querySelector(".box").style.transform = `translateX(${position}px)`;
+  if (position < 200) {
+    requestAnimationFrame(move);
+  }
 }
 move();
-````
+```
 
 ## **4. Scroll-Based Animations**
 
