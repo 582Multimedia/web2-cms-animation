@@ -65,3 +65,114 @@ You can combine multiple transform functions in a single declaration.
   transform: translate(50px, 100px) rotate(45deg) scale(1.2);
 }
 ```
+
+### Hover Example
+
+Use transforms to create interactive hover effects.
+
+````css
+.button {
+    transition: transform 0.3s ease;
+}
+.button:hover {
+    transform: scale(1.1) rotate(5deg);
+}
+
+## **2. CSS Animations**
+
+CSS animations allow you to define transitions between states with keyframes and timing.
+
+### Transitions
+Smoothly change property values over time.
+
+```css
+.button {
+    background-color: #3498db;
+    transition: background-color 0.3s ease;
+}
+.button:hover {
+    background-color: #2980b9;
+}
+
+### Keyframes
+
+Define multiple states for an element during an animation.
+
+```css
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+.element {
+    animation: slideIn 1s ease-out;
+}
+
+## **3. JavaScript for Animations**
+
+JavaScript provides dynamic control over animations for interactivity.
+
+### DOM Manipulation
+
+Use JavaScript to trigger animations.
+
+```javascript
+const box = document.querySelector('.box');
+box.addEventListener('click', () => {
+    box.style.transform = 'rotate(45deg)';
+    box.style.transition = 'transform 0.5s';
+});
+
+### requestAnimationFrame
+
+Create smooth, high-performance animations.
+
+```javascript
+let position = 0;
+function move() {
+    position += 1;
+    document.querySelector('.box').style.transform = `translateX(${position}px)`;
+    if (position < 200) {
+        requestAnimationFrame(move);
+    }
+}
+move();
+````
+
+## **4. Scroll-Based Animations**
+
+Scroll-based animations trigger effects as users scroll through a webpage, enhancing interactivity and visual appeal.
+
+### Intersection Observer API
+
+Efficiently animate elements when they enter the viewport.
+
+```javascript
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("visible");
+    }
+  });
+});
+
+document.querySelectorAll(".fade-in").forEach((el) => observer.observe(el));
+```
+
+### CSS
+
+```css
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+```
