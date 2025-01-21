@@ -1,6 +1,8 @@
-# Web Animation Techniques for Students
+# Web Animation Techniques for 582 Multimedia
 
-This guide covers essential web animation techniques to help students build engaging and interactive web experiences.
+Here are some notes developed with the help of ChatGPT.
+Some are good. Some not so good. Some are outdated.
+We will be fixing them up as we go.
 
 ---
 
@@ -66,21 +68,21 @@ You can combine multiple transform functions in a single declaration.
 }
 ```
 
-````
+The values represent the following functions:
+matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY()).
 
 ### Hover Example
 
 Use transforms to create interactive hover effects.
 
-
 ```css
 .button {
-    transition: transform 0.3s ease;
+  transition: transform 0.3s ease;
 }
 .button:hover {
-    transform: scale(1.1) rotate(5deg);
+  transform: scale(1.1) rotate(5deg);
 }
-````
+```
 
 ## **2. CSS Animations**
 
