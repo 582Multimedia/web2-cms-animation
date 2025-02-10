@@ -19,8 +19,8 @@ this is a change on Thursday
   - transitions
   - 2d transform
   - 3d transform
-  - @keyframe
-  - SVG animation
+  - [@keyframe MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+  - [SVG animation MDN docs](https://developer.mozilla.org/en-US/docs/Web/SVG)
 - Content Management Systems
   - posts
   - pages
@@ -78,3 +78,17 @@ this is a change on Thursday
 - [Kevin Powell: CSS Evangelist](https://www.kevinpowell.co/)
 - [and here is Kevin's YouTube channel](https://www.youtube.com/kevinpowell)
 - [Design Course with UI/UX guru Gary Simon](https://www.youtube.com/@DesignCourse)
+
+---
+### SVG resources & video tutorials
+- [SVG in 100seconds (13mins)](https://youtu.be/UTHgr6NLeEw?si=ade3-G1m0hrfR1Bv)
+- [SVG inspiration](https://www.snoweb.io/en/web-design/svg-animation/)
+- [SVG inspiration](https://www.sliderrevolution.com/design/svg-animation-examples/)
+
+
+
+
+
+
+
+
