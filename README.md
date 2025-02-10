@@ -84,6 +84,7 @@ this is a change on Thursday
 - [SVG in 100seconds (13mins)](https://youtu.be/UTHgr6NLeEw?si=ade3-G1m0hrfR1Bv)
 - [SVG inspiration & tutorial](https://www.snoweb.io/en/web-design/svg-animation/)
 - [SVG inspiration & articles](https://www.sliderrevolution.com/design/svg-animation-examples/)
+- [and from our friends at CSS Tricks](https://css-tricks.com/guide-svg-animations-smil/)
 
 
 
