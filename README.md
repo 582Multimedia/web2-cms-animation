@@ -86,6 +86,9 @@ this is a change on Thursday
 - [SVG inspiration & articles](https://www.sliderrevolution.com/design/svg-animation-examples/)
 - [and from our friends at CSS Tricks](https://css-tricks.com/guide-svg-animations-smil/)
 
+---
+### rando links
+- [masonry grid](https://medium.com/design-bootcamp/fu-k-your-boring-grid-build-masonry-layout-instead-db4f4522e7bf)
 
 
 
